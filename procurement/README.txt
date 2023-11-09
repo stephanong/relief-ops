@@ -16,7 +16,7 @@ Linear models used by the methods:
 - procure_model_stochcvarw.py, stochastic model with CVaR on the waste
 - procure_model_affine.py, robust adjustable model with affine rules
 
-Libary and utility function:
+Utility function:
 
 - procure_plotting.py, to produce the plots from the output files
 - procure_tabling.py, to produce the tables from the output files
