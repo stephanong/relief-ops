@@ -6,6 +6,13 @@ Input data
 - genhist100s0.csv, simulated historical data of 100 scenarios (for modelling)
 - gentest100s0.csv, simulated test data of 100 scenarios 
 
+Configuration file for experiments
+
+- simconfig.json, run for 12 months with safety stock of 10 tonne 
+                  per municipality as used in practice 
+- simconfign13r0.json, run for 13 months with zero safety stock
+
+
 [FILE FORMAT]
 
 All CSV files have the same format:
