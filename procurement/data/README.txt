@@ -12,13 +12,11 @@ Output results
 
 - output-[historical data]-[test data]-[method].csv:
   results for 12 months with safety stock of 10 tonne per municipality
+  as used in practice 
 
 - outputn13r0-[historical data]-[test data]-[method].csv:
   results for 13 months with zero safety stock
   
-- outputn12r1pkm-[historical data]-[test data]-[method].csv:
-  results for 12 months with safety stock of 1 tonne per municipality
-
 
 
 [FILE FORMAT]
