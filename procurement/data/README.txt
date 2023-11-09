@@ -1,27 +1,14 @@
 [FILE LIST]
 
-
 Input data
 
 - realhist5.csv, real historical data of years 2016-2020 (thus 5 scenarios)
 - genhist100s0.csv, simulated historical data of 100 scenarios (for modelling)
 - gentest100s0.csv, simulated test data of 100 scenarios 
 
-
-Output results
-
-- output-[historical data]-[test data]-[method].csv:
-  results for 12 months with safety stock of 10 tonne per municipality
-  as used in practice 
-
-- outputn13r0-[historical data]-[test data]-[method].csv:
-  results for 13 months with zero safety stock
-  
-
-
 [FILE FORMAT]
 
-All files has the same format:
+All CSV files have the same format:
 
 line 1: [m]
 line 2: [n]
