@@ -10,4 +10,4 @@ Folders
    Budget allocation of food procurement for natural disaster response,
    European Journal of Operational Research, Volume 311, Issue 2, 2023, Pages 754-768, ISSN 0377-2217,
    https://doi.org/10.1016/j.ejor.2023.05.015.
-2. more folders wo;; be added, corresponding to the outputs of the Relief-OpS project 
+2. more folders will be added, corresponding to the outputs of the Relief-OpS project 
